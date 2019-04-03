@@ -45,4 +45,12 @@ public class TestBranch {
         System.out.println("测试冲突解决");
         return "呵呵呵";
     }
+
+
+    public String toString1111() {
+        System.out.println("测试冲突解决");
+        return "哈哈哈哈";
+    }
+
+
 }
