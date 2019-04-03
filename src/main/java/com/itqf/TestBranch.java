@@ -40,6 +40,12 @@ package com.itqf;
  */
 public class TestBranch {
 
+    @Override
+    public String toString() {
+        System.out.println("测试冲突解决");
+        return "呵呵呵";
+    }
+
     public static void main(String[] args) {
         System.out.println(1111);
     }
