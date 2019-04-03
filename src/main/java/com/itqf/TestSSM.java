@@ -47,5 +47,9 @@ public class TestSSM {
 
     }
 
+    public  void  add(){
+        System.out.println("add user!!");
+    }
+
 
 }
