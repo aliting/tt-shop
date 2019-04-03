@@ -39,4 +39,10 @@ package com.itqf;
  * @Time: 下午 16:23
  */
 public class TestBranch {
+
+    @Override
+    public String toString() {
+        System.out.println("测试冲突解决");
+        return "呵呵呵";
+    }
 }
