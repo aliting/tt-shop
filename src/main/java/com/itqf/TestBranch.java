@@ -54,4 +54,12 @@ public class TestBranch {
     public static void main(String[] args) {
         System.out.println(1111);
     }
+
+
+    public String toString1111() {
+        System.out.println("测试冲突解决");
+        return "哈哈哈哈";
+    }
+
+
 }
